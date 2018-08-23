@@ -1,0 +1,70 @@
+#search-form {
+    float: right;
+    font-size: 30px;
+}
+
+body {
+background-image: url("../images/image.jpg");
+margin: 80px;
+}
+
+.search-item {
+    display: inline;
+    background-size: 20px;
+}
+
+.classToAdd{
+    color:white;
+    background-color: brown;
+    font-size: 20px;
+    border-radius: 3px;
+    display: inline-block;
+    font-family: serif;
+    margin: 3px;
+    border: solid black;
+    
+}
+input#search-input {
+    background-color: burlywood;
+    color: white;
+}
+#buttonsArea {
+size: 10px;
+align-items: center;
+margin-top: 3em;
+margin-bottom: 3em;
+margin-left: 1em;
+margin-right: 1em;
+}
+.header{
+    color: rgb(157, 100, 100);
+    font-size: 100px;
+    text-align: center;
+    font-family: fantasy;
+    text-decoration-line: underline;
+}
+label {
+    color: rgb(255, 255, 255);
+}
+#addSearch{
+
+background-color: brown;
+font-size: 20px;
+color: white;
+font-family: serif;
+}
+button.searchButton {
+margin-left: 0.5em;
+}
+img.searchImage{
+margin-left: 1em;
+}
+
+img.searchImage {
+    margin-left: 1em;
+    margin: 10px;
+    border: solid white;
+    height: 150px;
+    border: solid black;
+}
+
